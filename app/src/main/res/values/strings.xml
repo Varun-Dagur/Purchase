@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Purchase</string>
+    <string name="title_home">Home</string>
+    <string name="title_dashboard">Purchase</string>
+    <string name="title_notifications">Report</string>
+    <string name="department">DEPARTMENT</string>
+    <string name="purchase_all">Purchase All</string>
+</resources>
