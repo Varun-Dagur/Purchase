@@ -19,7 +19,7 @@ public class LoginActivity extends AppCompatActivity {
         getSupportActionBar().setTitle("Login");
 
         Log.d("Test Git","Git Sync");
-        Log.d("Test Git","Git Sync");
+
 
 
 
